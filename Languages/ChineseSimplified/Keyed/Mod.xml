@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <BestDrugPolicyLabel>安全用药</BestDrugPolicyLabel>
+    <BDP_policyName>用药方针名：</BDP_policyName>
+    <BDP_Category>安全用药方针</BDP_Category>
+    <BDP_additionalDays>频率额外增加{0}天</BDP_additionalDays>
+    <BDP_onlyIfJoyBelow>心情值阈值：{0}%</BDP_onlyIfJoyBelow>
+    <BDP_onlyIfMoodBelow>快乐度阈值：{0}%</BDP_onlyIfMoodBelow>
+    <BDP_onlyIfToleranceBelowMultiplier>抗药性阈值：成瘾抗药性阈值 * {0}</BDP_onlyIfToleranceBelowMultiplier>
+    <BDP_onlyIfToleranceBelowMultiplierTooltip>整合mod Only If Tolerance Below（抗药性阈值）。\n成瘾抗药性阈值会乘以此值来设定抗药性阈值，设置为任意时此项不生效。</BDP_onlyIfToleranceBelowMultiplierTooltip>
+    <BDP_Anyway>任意</BDP_Anyway>
+    <BDP_applyButton>应用设置</BDP_applyButton>
+    <BDP_appliedMessage>已应用！</BDP_appliedMessage>
+    <BDP_addToCurSaveButton>添加安全用药方针至此档</BDP_addToCurSaveButton>
+    <BDP_addedToCurSaveMessage>已添加！</BDP_addedToCurSaveMessage>
+
+    <ToleranceThresholdColumnLabel>抗药性阈值</ToleranceThresholdColumnLabel>
+    <ToleranceThresholdColumnDesc>殖民者仅当其抗药性低于此阈值时用药。</ToleranceThresholdColumnDesc>
+</LanguageData>

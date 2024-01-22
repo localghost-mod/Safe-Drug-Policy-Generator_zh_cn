@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ModMetaData>
+	<name>Safe Drug Policy Generator zh-cn [安全用药方针 - 汉化包]</name>
+	<author>Local Ghost</author>
+	<description>对于作者SeoHyeon的两个mod Safe Drug Policy Generator 与 Only If 'Tolerance' Below in Drug Policy的整合汉化。</description>
+	<packageId>localghost.bestdrugpolicy.zhcn</packageId>
+	<supportedVersions>
+		<li>1.4</li>
+	</supportedVersions>
+    <modDependencies>
+		<li>
+			<packageId>seohyeon.bestdrugpolicy</packageId>
+			<displayName>Safe Drug Policy Generator</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/2582640021</steamWorkshopUrl>
+		</li>
+		<li>
+			<packageId>seohyeon.onlyiftolerancebelow</packageId>
+			<displayName>Only If 'Tolerance' Below in Drug Policy</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/3088210509</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>seohyeon.bestdrugpolicy</li>
+		<li>seohyeon.onlyiftolerancebelow</li>
+	</loadAfter>
+</ModMetaData>
